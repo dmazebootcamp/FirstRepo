@@ -6,7 +6,8 @@ public class Day2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("FIrst statement");
-
+		
+		System.out.println("FIrst statement");
 	}
 
 }
