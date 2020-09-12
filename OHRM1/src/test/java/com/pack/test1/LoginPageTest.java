@@ -38,8 +38,6 @@ public class LoginPageTest extends BaseTest {
 		
 		System.out.println("Changes dine");
 		
-		System.out.println("Changes dine");
-		System.out.println("Changes dine");
 		
 		//Assert.assert
 	}
