@@ -34,7 +34,6 @@ public class LoginPageTest extends BaseTest {
 		
 		Assert.assertTrue(driver.getCurrentUrl().contains("dashboard"));
 		
-		System.out.println("Changes dine");
 		
 		
 		
